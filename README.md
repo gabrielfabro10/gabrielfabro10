@@ -20,6 +20,3 @@
   <img align="center" alt="Gabriel-Csharp" height="30" width="100" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Gabriel-Csharp" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
-
-  
-![Snake animation](https://github.com/gabrielfabro10/gabrielfabro10/blob/output/github-contribution-grid-snake.svg)
