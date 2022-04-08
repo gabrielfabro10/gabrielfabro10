@@ -1,15 +1,5 @@
 ### Olá, eu sou o Gabriel Fabro
 
-<!--
-**gabrielfabro10/gabrielfabro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Hoje trabalho com suporte
-- 🌱 Estudando C#
-
--->
-
 <div align="center">
   <a href="https://github.com/gabrielfabro10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfabro10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
