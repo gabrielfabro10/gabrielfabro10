@@ -6,6 +6,11 @@
   <a href = "mailto:gabriel_fabro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-fabro-baa76b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<div >
+  <a href="https://github.com/gabrielfabro10">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielfabro10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</div>
   
   ##
  <div style="display: inline_block"><br>
